@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MobileAppAntunovic</string>
+    <string name="title_activity_main">MobileAppAntunovic</string>
+    <string name="package_name">hr.veleri.monileappantunovic</string>
+    <string name="custom_url_scheme">hr.veleri.monileappantunovic</string>
+</resources>
